@@ -1,0 +1,7 @@
+vless://{uuid}@Quran.com:2095?type=httpupgrade&path=%2Fwww.Speedtest.net%3Fed%3D1024&host=www.speedtest.net.Ftp.debian.org.www.Digikala.com.Qurankade.com.&security=none#HTTP%20NO%20TLS-{name}
+S3par4t0r
+vless://{uuid}@Quran.com:2052?type=ws&path=%2Fwww.Speedtest.net%3Fed%3D1024&host=www.speedtest.net.Ftp.debian.org.www.Digikala.com.Qurankade.com.&security=none#WS%20NO%20TLS-{name}
+S3par4t0r
+vless://{uuid}@Quran.com:2087?type=ws&path=%2Findex.aspx%3Fed%3D2048&host=Nahjolbalaghe.qurankade.com&security=tls&fp=chrome&alpn=&sni=Nahjolbalaghe.qurankade.com#WS%20TLS-{name}
+S3par4t0r
+vless://{uuid}@Quran.com:2053?type=httpupgrade&path=%2Findex.aspx%3Fed%3D2048&host=Nahjolbalaghe.qurankade.com&security=tls&fp=chrome&alpn=&sni=Nahjolbalaghe.qurankade.com#HTTP%20TLS-{name}
